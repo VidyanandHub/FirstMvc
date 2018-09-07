@@ -1,2 +1,0 @@
-# FirstMvc
-Trying first mvc
